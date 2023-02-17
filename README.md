@@ -24,7 +24,7 @@ A motion-driven animation framework for Android.
     * [Actors](#actors)
 * [Dependencies](#dependencies)
 * [Contact](#contact)
-* [License](#license)
+
 
 ## Usage
 
