@@ -23,7 +23,7 @@ A motion-driven animation framework for Android.
     * [Imitators](#imitators)
     * [Actors](#actors)
 * [Dependencies](#dependencies)
-* [Contact](#contact)
+
 
 
 ## Usage
@@ -183,6 +183,4 @@ Actor bolt = new Actor.Builder(SpringSystem.create(), bolter).addTranslateMotion
 
 * [rebound](http://facebook.github.io/rebound/)
 
-## Contact
 
-* [Eric Leong](mailto:ericleong@tumblr.com)
